@@ -34,17 +34,14 @@ Las visualizaciones logran transformar datos complejos en información fácil de
 ## Interacción
 La interacción en esta webstory es sencilla y efectiva. El usuario solo necesita hacer scroll para avanzar, lo que hace que la experiencia sea muy natural.
 El diseño está pensado para que el lector se concentre en el contenido, sin distraerse con la navegación. Además, el hecho de que la información se revele de forma progresiva mantiene el interés. El usuario no ve todo de inmediato, sino que va descubriendo el contenido de forma croonologica.
-
+| Left columns  | Right columns |
+|  ![alt text](image-3.png)|![alt text](image-4.png)|
 ## Datos
 Los datos utilizados en el reportaje son claros y están bien presentados. No se muestran de forma aislada, sino que siempre están acompañados de explicaciones que ayudan a entender su significado.
 
 Además, al tratarse de un medio como la BBC, existe una base de credibilidad importante. Esto refuerza la confianza en la información presentada.
 
 Otro punto relevante es que los datos están bien seleccionados. No hay exceso de cifras ni información innecesaria, lo que evita confundir al lector.
-
-(image.png)
-
-(image-1.png)
 
 ## Efectividad
 Este reportaje de BBC es un buen ejemplo de cómo el periodismo de datos puede adaptarse a formatos digitales interactivos. A través de una combinación de narrativa, visualización e interacción, logra transformar información compleja en una historia clara y accesible.
