@@ -1,9 +1,8 @@
 # # Análisis de Webstory basada en datos – BBC
-![alt text](image.png)
 ##  "Gaza war in maps and satellite images"
 **Nombre:**  – BBC News - Visual Journalism team - 13 October 2025
 **URL:** https://www.bbc.co.uk/news/resources/idt-217c6a28-4a90-4d47-a91c-13113a7dc7db
-
+![alt text](image.png)
 ## Descripción:
 La webstory de BBC presenta un reportaje interactivo que busca explicar las cifras del conficto armado en Gaza. A diferencia de una noticia tradicional, aquí la información no se entrega en un solo bloque de texto, sino que se va mostrando poco a poco a través de gráficos, mapas e imágenes.
 
@@ -18,7 +17,7 @@ Hacia el final, el reportaje cierra con una síntesis de lo visto, reforzando la
 
 En general, la estructura funciona muy bien porque guía al lector sin exigir demasiado esfuerzo.
 
-## Visualización
+## Visualización:
 Las visualizaciones son el eje central del reportaje. No están ahí solo para acompañar el texto, sino que cumplen una función clave en la explicación.
 
 Los mapas permiten ubicar la información en el espacio, lo que ayuda a entender dónde ocurren los fenómenos. Esto es especialmente útil cuando se comparan distintas zonas o regiones.
@@ -27,6 +26,10 @@ Los gráficos, por su parte, simplifican datos que serían difíciles de entende
 
 También hay elementos visuales que funcionan como infografías, explicando procesos de manera ordenada. Todo esto hace que el contenido sea más accesible y comprensible.
 Las visualizaciones logran transformar datos complejos en información fácil de interpretar.
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
 
 ## Interacción
 La interacción en esta webstory es sencilla y efectiva. El usuario solo necesita hacer scroll para avanzar, lo que hace que la experiencia sea muy natural.
